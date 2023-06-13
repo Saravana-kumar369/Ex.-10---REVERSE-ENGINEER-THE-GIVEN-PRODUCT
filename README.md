@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2023-06-13 at 18 32 50](https://github.com/Saravana-kumar369/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117925254/2f717f1a-42eb-4c75-8a69-53c919219e37)
+
 
 ### Output:
+![Screenshot 2023-06-13 171625](https://github.com/Saravana-kumar369/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117925254/8c09b178-b000-4024-8edc-0651da98d057)
 
 
-### Name:
-### Register Number:
+### Name:SARAVANA KUMAR M
+### Register Number:212222230133
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
