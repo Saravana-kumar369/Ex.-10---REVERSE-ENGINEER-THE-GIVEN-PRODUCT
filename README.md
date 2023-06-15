@@ -31,8 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2023-06-13 at 18 32 50](https://github.com/Saravana-kumar369/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117925254/2f717f1a-42eb-4c75-8a69-53c919219e37)
-
+![remote 2](https://github.com/Saravana-kumar369/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117925254/9081aeb0-923e-4e0e-8d1b-84d9215dfa0c)
 
 ### Output:
 ![Screenshot 2023-06-13 171625](https://github.com/Saravana-kumar369/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/117925254/8c09b178-b000-4024-8edc-0651da98d057)
